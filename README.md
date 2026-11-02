@@ -1,5 +1,4 @@
 # space-manage
-# Automated Log & Directory Cleaner (Bash)
 
 ## Project Goal
 An automated Bash script that recursively scans target project folders, identifies stale build artifacts and old log files based on configurable age thresholds, and safely previews or purges them to recover local disk space.
